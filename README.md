@@ -18,7 +18,6 @@
 ### 🧭 Sobre mí
 
 - 🎓 Cursando **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en UDIT
-- 💼 Realizando prácticas en **SherloKEA**, empresa del ámbito de ciberseguridad
 - 🛠️ Aprendiendo y trabajando con Java (OOP), desarrollo web, bases de datos y redes
 - 🌱 Interesado en ciberseguridad, OSINT y ciencia de datos
 - 📫 Puedes escribirme a: **lucas.hernandez.romero1966@gmail.com**
