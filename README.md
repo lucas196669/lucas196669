@@ -42,9 +42,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas196669&show_icons=true&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats-fastify.vercel.app/api?username=lucas196669&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas196669&layout=compact&theme=tokyonight" />
