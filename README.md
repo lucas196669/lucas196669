@@ -40,6 +40,18 @@
 
 ---
 
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-murex-iota-49.vercel.app/api?username=lucas196669&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-murex-iota-49.vercel.app/api/top-langs/?username=lucas196669&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 🚀 Proyectos destacados
 
 <!-- Sustituye por tus repos reales, ejemplo: -->
